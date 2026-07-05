@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3a0132_001.yaml, hash: 'sha256:7311b3316274b1f188f96a61fd016c11b10ae378d17590b26ddedf2fbcce4eaf'}
+  - {seq: 1, filename: KR3a0132_001.yaml, hash: 'sha256:2133fe4e3a4c1c46506e18c5e06db9c8c98434b3fe96972294f4d02c76720b2f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3a0132_001.markers.yaml, hash: 'sha256:333ac3abcc18fa17a81b32ed63b4e9f1ac9db532851e5636b45fb8917697c431'}
+  - {seq: 1, role: markers, filename: assets/KR3a0132_001.markers.yaml, hash: 'sha256:6ea1f2e6690e835f4f9e2f00b67632ffb196d258b37bd130669d51637abcef08'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 庭誥
   type: section
   level: 1
-hash: sha256:22734c43192977d23b3ba952905ed893bb1937ba38b073662c61753a76dbc619
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bcfcb46cdcea5cab3ad31b90e2852860a0e32331c488137144c4c5bdd84ad027
