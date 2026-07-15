@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3a0132/v1
 canonical_location: https://kanripo.org/bkk/KR3a0132/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 庭誥一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3a0132_001.yaml, hash: 'sha256:2133fe4e3a4c1c46506e18c5e06db9c8c98434b3fe96972294f4d02c76720b2f'}
+  - {seq: 1, filename: KR3a0132_001.yaml, hash: 'sha256:7311b3316274b1f188f96a61fd016c11b10ae378d17590b26ddedf2fbcce4eaf'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3a0132_001.markers.yaml, hash: 'sha256:6ea1f2e6690e835f4f9e2f00b67632ffb196d258b37bd130669d51637abcef08'}
+  - {seq: 1, role: markers, filename: assets/KR3a0132_001.markers.yaml, hash: 'sha256:cc6fae718ef4a502cbfcf1d5bc3f042d7d99a74be6f99e76a72a62c2042aec02'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 庭誥
   type: section
   level: 1
-hash: sha256:bcfcb46cdcea5cab3ad31b90e2852860a0e32331c488137144c4c5bdd84ad027
+hash: sha256:a1a4882e356395843237a4610c9fd35c4dc4deb9979cfc5b421b0e041791f136
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
